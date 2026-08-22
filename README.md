@@ -29,36 +29,25 @@ The dataset used for this project was obtained from Kaggle that contains multipl
 - Marketing Performance
 - Customer Feedback
 
-## SQL Analysis
+## Analysis Performed
 
-SQL was used to analyze the data and answer business-related questions such as:
+### Sales Analysis
+- Analysed total revenue, orders and average order value
+- Studied monthly sales trends
+- Compared revenue across payment methods and product categories
+- Identified top-performing products
 
-- Total sales and order performance
-- Customer analysis
-- Product and category performance
-- Inventory and damaged stock analysis
-- Delivery performance
-- Customer ratings and feedback
-- Marketing campaign performance
+### Customer & Delivery Analysis
+- Analysed customer segments and ratings
+- Examined customer sentiment
+- Evaluated delivery status and delays
+- Calculated on-time delivery performance
 
-The complete SQL queries are available in:
-
-'SQL/Blinkit_SQL_Analysis.sql'
-
-## Power BI Dashboard
-
-The Power BI dashboard was created to present the key findings through interactive visualizations and KPIs.
-
-The dashboard includes analysis of:
-
-- Sales performance
-- Orders
-- Products and categories
-- Customers
-- Delivery performance
-- Inventory
-- Marketing performance
-- Customer feedback
+### Marketing & Inventory Analysis
+- Compared marketing spending with revenue generated
+- Analysed ROAS across campaigns and channels
+- Compared stock received with damaged stock
+- Identified products with higher damaged-stock levels
 
 ## Key Insights
 
@@ -68,17 +57,24 @@ The dashboard includes analysis of:
 - Marketing generated ₹32.19M in revenue from ₹16.32M spend, resulting in an average ROAS of 2.74.
 - Inventory recorded 80K damaged units out of 148K received, resulting in a 54.41% damage rate, highlighting a major inventory efficiency issue.
 
-## Skills Demonstrated
+Dashboard Preview
 
-- Data Cleaning
-- SQL
-- Data Analysis
-- Data Visualization
-- Power BI
-- Excel
-- Business Intelligence
-- KPI Analysis
-- Dashboard Development
+### Sales Overview
 
-## Project Type
-Data Analytics Portfolio Project
+![Sales Overview](Sales_overview_Dashboard.png)
+
+### Customer & Delivery Analytics
+
+![Customer & Delivery Analytics](Customer_Delivery_Analytics_Dashboard.png)
+
+### Marketing & Inventory Analytics
+
+![Marketing & Inventory Analytics](Marketing_Inventory_Analytics_Dashboard.png)
+
+## Project Files
+
+- `Blinkit_SQL_Analysis.sql` – SQL queries used for analysis
+- `Blinkit Sales Analysis.pbix` – Power BI dashboard file
+- `Sales_overview_Dashboard.png` – Sales dashboard preview
+- `Customer_Delivery_Analytics_Dashboard.png` – Customer and delivery dashboard preview
+- `Marketing_Inventory_Analytics_Dashboard.png` – Marketing and inventory dashboard preview
