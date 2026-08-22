@@ -18,7 +18,7 @@ The project follows an end-to-end data analytics workflow:
 
 ## Dataset
 
-The dataset contains multiple tables covering:
+The dataset used for this project was obtained from Kaggle that contains multiple tables covering:
 
 - Customers
 - Orders
