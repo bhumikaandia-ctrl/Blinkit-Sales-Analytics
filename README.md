@@ -62,11 +62,11 @@ The dashboard includes analysis of:
 
 ## Key Insights
 
--The project generated ₹11.01M in revenue from 5K orders, with an average order value of ₹2.20K.
--Dairy & Breakfast was the highest-revenue category, while Vitamins was the top-performing product among the top 10 products.
--Only 69.4% of deliveries were completed on time, with an average delivery delay of 4.44 minutes.
--Marketing generated ₹32.19M in revenue from ₹16.32M spend, resulting in an average ROAS of 2.74.
--Inventory recorded 80K damaged units out of 148K received, resulting in a 54.41% damage rate, highlighting a major inventory efficiency issue.
+- The project generated ₹11.01M in revenue from 5K orders, with an average order value of ₹2.20K.
+- Dairy & Breakfast was the highest-revenue category, while Vitamins was the top-performing product among the top 10 products.
+- Only 69.4% of deliveries were completed on time, with an average delivery delay of 4.44 minutes.
+- Marketing generated ₹32.19M in revenue from ₹16.32M spend, resulting in an average ROAS of 2.74.
+- Inventory recorded 80K damaged units out of 148K received, resulting in a 54.41% damage rate, highlighting a major inventory efficiency issue.
 
 ## Skills Demonstrated
 
